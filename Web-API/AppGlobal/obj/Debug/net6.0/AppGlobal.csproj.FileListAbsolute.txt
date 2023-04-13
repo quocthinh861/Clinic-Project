@@ -1,0 +1,15 @@
+E:\minishop-composer\api\AppGlobal\bin\Debug\net6.0\AppGlobal.deps.json
+E:\minishop-composer\api\AppGlobal\bin\Debug\net6.0\AppGlobal.runtimeconfig.json
+E:\minishop-composer\api\AppGlobal\bin\Debug\net6.0\AppGlobal.dll
+E:\minishop-composer\api\AppGlobal\bin\Debug\net6.0\AppGlobal.pdb
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\NuGet\EA7674332CEEA72727CB7CF3343F1CE2B388E094\MimeTypes\2.2.0\MimeTypes.cs
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.csproj.AssemblyReference.cache
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.GeneratedMSBuildEditorConfig.editorconfig
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.AssemblyInfoInputs.cache
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.AssemblyInfo.cs
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.csproj.CoreCompileInputs.cache
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.dll
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\refint\AppGlobal.dll
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.pdb
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\AppGlobal.genruntimeconfig.cache
+E:\minishop-composer\api\AppGlobal\obj\Debug\net6.0\ref\AppGlobal.dll
